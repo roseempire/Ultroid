@@ -1,5 +1,5 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Rose - UserBot
+# Copyright (C) 2021 TeamRose
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
 # PLease read the GNU Affero General Public License in
